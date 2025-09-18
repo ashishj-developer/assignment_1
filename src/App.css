@@ -1,0 +1,20 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #333;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
